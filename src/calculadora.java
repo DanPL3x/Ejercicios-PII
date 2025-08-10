@@ -44,5 +44,7 @@ public class calculadora {
         }
 
         Usuario.close();
+
+        System.out.println("Mensaje de prueba para ver la sincronizacioon con GIT");
     }
 }
